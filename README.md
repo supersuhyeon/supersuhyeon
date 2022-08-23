@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Suhyeon_Kim&fontSize=90&animation=fadeIn)
-#### Hi there! 😃 <br> I'm a self-taught front-end web developer from South Korea, currently living in CA, USA<br>
-Always try my best to be a better coder than yesterday!
+#### Hi there! 😃 <br> I'm a self-taught front-end web developer from South Korea, currently living in CA, USA<br>Always try my best to be a better coder than yesterday!
 #### <img src= "https://img.shields.io/badge/E--mail-suhyeonkr%40gmail.com-pink"/>
 
 #### Studying Now 📚
