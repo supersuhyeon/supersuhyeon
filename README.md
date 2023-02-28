@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=JavaScript&logoColor=white"/>
+</p>
+
+<p>
 <span>Design & Video editing : </span>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=black"/>
