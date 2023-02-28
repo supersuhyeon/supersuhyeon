@@ -27,6 +27,6 @@
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=black"/>
 </p>
 
-#### My Github 🛠️
+#### My Github 💚
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=supersuhyeon)](https://github.com/anuraghazra/github-readme-stats)
+
