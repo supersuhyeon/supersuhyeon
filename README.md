@@ -2,8 +2,6 @@
 #### Hi there! 😃 <br> I'm a self-taught front-end web developer from South Korea, currently living in CA, USA<br>Always try my best to be a better coder than yesterday!
 #### <img src= "https://img.shields.io/badge/E--mail-suhyeonkr%40gmail.com-pink"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Studying Now 📚
 <p>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -29,3 +27,6 @@
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=black"/>
 </p>
 
+#### My Github 🛠️
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
